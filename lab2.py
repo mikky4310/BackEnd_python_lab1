@@ -85,8 +85,7 @@ def potion_brewing():
     print(f"Осталось трав: {herbs}")
     print(f"Осталось пыли: {crystal_dust}")
 
-if __name__ == "__main__":
-    transform()
-    assigning()
-    conditional_operators()
-    potion_brewing()
+transform()
+assigning()
+conditional_operators()
+potion_brewing()
